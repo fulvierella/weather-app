@@ -49,9 +49,17 @@ h1 {
 .weather-app {
   border: 1px solid #dadde1;
   padding: 15px;
-  margin: 20px auto;
+  margin: 20px auto 12px auto;
   border-radius: 10px;
   max-width: 600px;
+}
+.bottom-text {
+  border: 0px;
+  padding: 0px;
+  margin: 20px auto 12px auto;
+  font-size: 14px;
+  max-width: 600px;
+  color: rgb(95, 94, 94);
 }
 
 .weather-icon {
